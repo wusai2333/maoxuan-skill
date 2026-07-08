@@ -270,6 +270,8 @@ MIT — 随便用，随便改，随便造。
 
 **[Mini Claude Code](https://github.com/leezythu/mini-claude-code)** — 用 ~700 行 Python 复刻 Claude Code 的核心架构。把 51 万行 TypeScript 的庞大工程压缩到 5 个文件，保留完整的 agentic loop、工具系统、权限管理。想理解 AI coding agent 是怎么工作的？读这一个仓库就够了。
 
+**[Awesome Harness Engineering for Self-Improvement](https://github.com/leezythu/Awesome-Harness-Self-Improvement)** — 一份聚焦「harness 自我改进」的精选论文清单：当智能体的上下文、提示词、工作流、工具与代码成为自己优化、搜索、进化的对象时会发生什么。围绕「优化阶梯」组织，中英双语。想系统了解 agent 如何递归自我改进？从这里开始。
+
 ---
 
 ## 致谢
