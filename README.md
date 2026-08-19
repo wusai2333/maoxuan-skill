@@ -262,7 +262,7 @@ MIT — 随便用，随便改，随便造。
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=leezythu/maoxuan-skill&type=Date)](https://star-history.com/#leezythu/maoxuan-skill&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=leezythu/maoxuan-skill&type=Date)](https://star-history.dera.page/#leezythu/maoxuan-skill&Date)
 
 ---
 
